@@ -2,6 +2,8 @@
 
 In this project, i’ll convert an expense tracking application to use the Redux toolkit, rather than simply using Redux. Optimising the code with fewer lines of code to showcase how Redux toolkit is a must use package for Redux development
 
+The live site can be accessed here: https://codecademy-expense-tracker.netlify.app/
+
 This project—a budgeting and expense tracking app—allows you to practice refactoring with Redux Toolkit. The app allows you to set budgets for various categories, such as food and transportation, and track transactions in those categories. It then sums your spending in each category to calculate the amount of money that remains to be spent.
 
 To help you to understand how the data of the application works, consider an example of the Redux store’s state:
